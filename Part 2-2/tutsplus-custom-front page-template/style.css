@@ -1,0 +1,19 @@
+/*
+Theme Name:     Create a Custom Front Page with a Theme Template File
+Theme URI:      http://wp.tutsplus.com/author/rachelmccollin/
+Description:    Theme to support tuts+ tutorial. Child theme for the Twenty Sixteen theme.
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       twentysixteen
+Version:        2.2
+
+*/
+
+@import url("../twentysixteen/style.css");
+
+
+/* slideshow */
+
+.soliloquy-container .soliloquy-wrapper {
+	margin-bottom: 10px !important;
+}
